@@ -5,11 +5,6 @@ Built using **HTML, CSS, and Bootstrap**, this project focuses on layout, respon
 
 ---
 
-## 🔗 Live Preview
-👉 (Add your GitHub Pages / Vercel link here once deployed)
-
----
-
 ## 📌 Features
 
 - 🎨 Pastel-themed modern UI
